@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Lauren Hodgson
+tagline: R-ecoding climate change
 ---
 {% include JB/setup %}
 
