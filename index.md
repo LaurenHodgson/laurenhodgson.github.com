@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recoding climate change
+title: R-ecoding climate change
 tagline: a useR blog
 ---
 {% include JB/setup %}
