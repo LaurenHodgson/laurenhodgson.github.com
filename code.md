@@ -1,7 +1,7 @@
 ---
 layout: page
-title : The code
-header : The code
+title : code
+header : code
 group: navigation
 ---
 {% include JB/setup %}
