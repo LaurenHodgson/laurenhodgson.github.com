@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recoding climate change
-tagline: The results
+tagline: a useR blog
 ---
 {% include JB/setup %}
 
