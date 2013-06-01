@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The results
-tagline: of R-ecoding climate change
+title: Recoding climate change
+tagline: The results
 ---
 {% include JB/setup %}
 
