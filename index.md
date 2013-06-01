@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lauren Hodgson
-tagline: R-ecoding climate change
+title: The results
+tagline: of R-ecoding climate change
 ---
 {% include JB/setup %}
 
